@@ -13,4 +13,12 @@
 {5,9402d650-f23d-44cf-9cb2-9a0ac191aac7,"",1},
 {4,"_$InfoBase$_.DBConfigUpdate",6},
 {3,"1CV8C",2},
-{4,"_$Session$_.Finish",7}
+{4,"_$Session$_.Finish",7},
+{5,a19213c4-6f43-4293-a9a9-6cece3c0fbd8,"",2},
+{3,"BackgroundJob",3},
+{5,86ce095d-ccd8-40de-9795-cea49d911b48,"",3},
+{5,e0823e88-6b09-4e1a-9c7e-314f649bc913,"",4},
+{4,"_$Transaction$_.Begin",8},
+{4,"_$Data$_.New",9},
+{5,86ce095d-ccd8-40de-9795-cea49d911b48,"Справочник.Контрагенты",3},
+{4,"_$Transaction$_.Commit",10}
