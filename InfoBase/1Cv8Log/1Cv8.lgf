@@ -34,4 +34,5 @@
 {5,8f936b1c-b0d4-47f2-a45f-2be8f4e2bac1,"Справочник.Склады",6},
 {5,b6922d1c-e2d2-41bb-a00c-898aa332ab97,"Документ.Приходная",7},
 {5,d004bdbd-5539-4b4b-b644-cb5fe50ef8ca,"Документ.Расходная",8},
-{4,"_$Transaction$_.Rollback",16}
+{4,"_$Transaction$_.Rollback",16},
+{4,"_$Data$_.Delete",17}
